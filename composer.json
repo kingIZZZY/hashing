@@ -27,9 +27,9 @@
     },
     "require": {
         "php": "^8.2",
-        "hyperf/config": "~3.1.0",
-        "hyperf/context": "~3.1.0",
-        "hyperf/support": "~3.1.0"
+        "hyperf/config": "3.2.x-dev",
+        "hyperf/context": "3.2.x-dev",
+        "hyperf/support": "3.2.x-dev"
     },
     "config": {
         "sort-packages": true
